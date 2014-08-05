@@ -1,0 +1,2 @@
+영문으로 최대 62글자까지 표시 가능합니다.
+Can be displayed up to 62 characters in English.
